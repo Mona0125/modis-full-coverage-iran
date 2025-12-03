@@ -1,0 +1,6 @@
+earthaccess
+geopandas
+shapely
+pandas
+folium
+openpyxl
