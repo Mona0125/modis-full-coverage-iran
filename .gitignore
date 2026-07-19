@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.netrc
+*.pem
+*.key
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Downloaded or local data
+data/*
+!data/README.md
+
+# Generated outputs
+output/*
+!output/README.md
+*.xlsx
+*.html
+
+# Logs and temporary files
+*.log
+*.tmp
