@@ -1,11 +1,12 @@
-color = (
-    "purple"
-    if cov >= 90
-    else "red"
-    if cov >= 80
-    else "orange"
-    if cov >= 70
-    else "yellow"
-    if cov >= 50
-    else "blue"
-)
+def get_coverage_color(cov):
+
+    if cov >= 90:
+        return "purple"
+    elif cov >= 80:
+        return "red"
+    elif cov >= 70:
+        return "orange"
+    elif cov >= 50:
+        return "yellow"
+    else:
+        return "blue"
