@@ -1,3 +1,5 @@
 ## 4. NASA Earthdata Authentication
 
 Authentication is required to access MODIS metadata.
+
+auth = earthaccess.login()
