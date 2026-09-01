@@ -1,0 +1,10 @@
+## 2. Data Source
+
+Satellite Products:
+
+- MOD02 (Terra MODIS Level-1B)
+- MYD02 (Aqua MODIS Level-1B)
+
+Data Provider:
+
+NASA Earthdata Search API
