@@ -1,0 +1,10 @@
+## 1. Introduction
+
+MODIS sensors onboard Terra and Aqua satellites acquire Earth observations
+using wide swath imaging.
+
+Because of orbital geometry, individual acquisitions may provide partial
+or complete coverage over a region of interest.
+
+This study evaluates MOD021KM and MYD021KM products to identify MODIS
+granules covering Iran.
