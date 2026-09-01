@@ -1,0 +1,21 @@
+NASA Earthdata API
+
+        ↓
+
+MODIS Terra/Aqua Granules
+
+        ↓
+
+Swath Geometry Extraction
+
+        ↓
+
+Intersection With Iran Boundary
+
+        ↓
+
+Coverage Percentage Calculation
+
+        ↓
+
+Interactive Map + Excel Report
