@@ -1,0 +1,27 @@
+## 3. Workflow
+
+NASA Earthdata API
+
+↓
+
+MODIS Granule Search
+
+↓
+
+Metadata Extraction
+
+↓
+
+Swath Geometry Construction
+
+↓
+
+Intersection With Iran Boundary
+
+↓
+
+Coverage Calculation
+
+↓
+
+Interactive Visualization
