@@ -1,0 +1,10 @@
+## 1. Introduction
+
+MODIS sensors onboard Terra and Aqua satellites acquire global observations
+using swath-based imaging geometry.
+
+Due to orbital characteristics, individual MODIS observations may partially
+cover a region of interest.
+
+This project evaluates MOD02 and MYD02 swaths and calculates their spatial
+coverage over Iran using geospatial analysis techniques.
