@@ -1,0 +1,7 @@
+PROJECT_DIR = Path("..")
+
+DATA_DIR = PROJECT_DIR / "data"
+
+OUTPUT_DIR = PROJECT_DIR / "outputs"
+
+IRAN_SHAPEFILE = DATA_DIR / "gadm41_IRN_0.shp"
