@@ -1,14 +1,8 @@
 # MODIS Full Coverage Analysis Over Iran
 
-## Identification of MODIS MOD02/MYD02 Overpasses Providing Complete Spatial Coverage Over Iran
+## Identification of Terra and Aqua MODIS Overpasses Providing Spatial Coverage Over Iran
 
 Author:
 Mona Fakhri
 
-MSc Student in Remote Sensing Engineering
-
----
-
-This notebook analyzes Terra and Aqua MODIS Level-1B swath observations
-to identify acquisition dates and times providing high spatial coverage
-over Iran.
+MSc Remote Sensing Engineering
